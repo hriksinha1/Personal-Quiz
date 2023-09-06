@@ -20,3 +20,8 @@ body {
     overflow-y: auto;
     word-wrap: break-word;
   }
+
+  p {
+
+    font-size: large;
+  }
